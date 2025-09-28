@@ -29,14 +29,8 @@ We will all use the same setup so it’s simple for everyone:
 That way no one needs a custom `.env` file for local development.
 
 
-<div align="center">
-  <h3>Scrollable Image Gallery</h3>
-</div>
-
 
       
-    <center>
-        <h1>Image Gallery</h1>
         <table border="0" cellpadding="10" cellspacing="10">
             <tr>
                 <td>
@@ -69,7 +63,6 @@ That way no one needs a custom `.env` file for local development.
                 </td>
             </tr>
         </table>
-    </center>
 
 
 
