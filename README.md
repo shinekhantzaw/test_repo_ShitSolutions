@@ -62,7 +62,8 @@ Or you can run the app with play button if you installed PowerShell (by Microsof
 ---
 
 ## 5) Stopping the project:
--  **Ctrl+C** in the terminal.   
+-  **Ctrl+C** in the VSCode terminal to stop frontend sever.
+-  **Ctrl+C** in the PowerShell pop-up window to stop backend sever.
 - Stop PostgreSQL if you don’t want to waste system resources:  
 
 ---
