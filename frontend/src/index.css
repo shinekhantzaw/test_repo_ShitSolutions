@@ -16,7 +16,11 @@
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  display: grid;
+  place-items: center;
+  min-height: 100vh;
 }
+
 
 a {
   font-weight: 500;
@@ -73,6 +77,14 @@ select {
   border-radius: 8px;
   width: 90%;
 }
+
+.app-container {
+  display: flex;
+  justify-content: center;
+
+}
+
+
 
 select {
   border-radius: 8px;

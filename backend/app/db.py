@@ -19,7 +19,7 @@ load_dotenv()
 # set the database URL
 DATABASE_URL = os.getenv(
     "DATABASE_URL",
-    "postgresql+psycopg://appuser:devpassword@localhost:5432/appdb"
+    "postgresql+psycopg://postgres:capstone@localhost:5432/postgres"
 )
 
 # engine is the connection to Postgres

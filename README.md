@@ -5,7 +5,7 @@
 - Python 3.10+  
 - Node.js and npm  
 - PostgreSQL (running locally)  
-- DBeaver DBMS for making a lot of changes into the database  
+- pgAdmin 4 DBMS
 - SQLTools VSCode extension (by Matheus Teixeira) for making light changes  
 - React Native Tools VSCode extension  
 - ES7 React/Redux/GraphQL/React-Native snippets VSCode extension  
@@ -20,9 +20,9 @@
 ## 3) Database setup:
 We will all use the same setup so it’s simple for everyone:
 
-- **Username:** appuser  
-- **Password:** devpassword  
-- **Database:** appdb  
+- **Username:** postgres  
+- **Password:** capstone  
+- **Database:** postgres  
 - **Port:** 5432  
 
 **Note:** To keep things simple, let’s all use the same setup.  
@@ -89,37 +89,12 @@ Fill in setup information (user, password, db name, port) → Finish
 
 ---
 
-## 4) Setup backend:
-```bash
-cd backend
-python -m venv .venv
-source .venv/bin/activate   # On Linux/Mac
-.\.venv\Scripts\activate    # On Windows
-pip install -r requirements.txt
+## 4) Running the project:
+**Windows**
+```PowerShell
+.\run.ps1
 ```
-
----
-
-## 5) Setup frontend:
-```bash
-cd frontend
-npm install
-```
-
----
-
-## Running the project:
-**Linux/Mac:**
-```bash
-./run_dev.sh
-```
-
-**Windows:**
-```powershell
-.\run_dev.ps1
-```
-
----
+Or you can run the app with play button if you installed PowerShell (by Microsoft) VSCode extention
 
 ## Access the project:
 - Backend (API) → http://127.0.0.1:8000  
@@ -127,13 +102,9 @@ npm install
 
 ---
 
-## Stopping the project:
-- On Linux/Mac press **Ctrl+C** in the terminal.  
-- On Windows close the PowerShell window or press **Ctrl+C**.  
+## 5) Stopping the project:
+-  **Ctrl+C** in the terminal.   
 - Stop PostgreSQL if you don’t want to waste system resources:  
-```bash
-sudo systemctl stop postgresql   # Linux/Mac
-```
 
 ---
 
@@ -154,6 +125,5 @@ test-app/
 │   │   └── Input.jsx    # Student form + list
 │   └── package.json
 │
-├── run_dev.sh           # Start backend + frontend (Linux/macOS)
-└── run_dev.ps1          # Start backend + frontend (Windows)
+└── run.ps1              # Initialize and run the app (Windows only)
 ```
