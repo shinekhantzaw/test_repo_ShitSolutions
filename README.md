@@ -33,6 +33,8 @@ That way no one needs a custom `.env` file for local development.
 | <img src="https://github.com/user-attachments/assets/e0f48515-aacf-4c41-bc9e-a0a64d130395" width="500"> | <img src="https://github.com/user-attachments/assets/9671d24b-03ac-4c71-8db0-20a4ac93c95e" width="500"> |
 | <img src="https://github.com/user-attachments/assets/31e04ee8-dc43-4b34-aabf-7e7630b43340" width="500"> | <img src="https://github.com/user-attachments/assets/4561f866-7978-4af7-9be5-00736fa4abd8" width="500"> |
 | <img src="https://github.com/user-attachments/assets/0c34b9e5-1350-4bf2-9082-be34192920df" width="500"> | <img src="https://github.com/user-attachments/assets/c54903c7-d687-4b06-8297-a9e72a256c7e" width="500"> |
+| <img src="https://github.com/user-attachments/assets/107d54cc-0682-42e3-937a-9e5d2bafa009" width="500"> |
+
 
 ---
 
