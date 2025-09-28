@@ -28,6 +28,15 @@ We will all use the same setup so it’s simple for everyone:
 **Note:** To keep things simple, let’s all use the same setup.  
 That way no one needs a custom `.env` file for local development.
 
+<img width="827" height="648" alt="Screenshot 2025-09-28 080304" src="https://github.com/user-attachments/assets/e0f48515-aacf-4c41-bc9e-a0a64d130395" />
+<img width="827" height="648" alt="Screenshot 2025-09-28 081425" src="https://github.com/user-attachments/assets/9671d24b-03ac-4c71-8db0-20a4ac93c95e" />
+<img width="916" height="628" alt="Screenshot 2025-09-28 081438" src="https://github.com/user-attachments/assets/31e04ee8-dc43-4b34-aabf-7e7630b43340" />
+<img width="916" height="628" alt="Screenshot 2025-09-28 081607" src="https://github.com/user-attachments/assets/4561f866-7978-4af7-9be5-00736fa4abd8" />
+<img width="916" height="628" alt="Screenshot 2025-09-28 081616" src="https://github.com/user-attachments/assets/0c34b9e5-1350-4bf2-9082-be34192920df" />
+<img width="916" height="628" alt="Screenshot 2025-09-28 081629" src="https://github.com/user-attachments/assets/c54903c7-d687-4b06-8297-a9e72a256c7e" />
+<img width="827" height="649" alt="Screenshot 2025-09-28 082012" src="https://github.com/user-attachments/assets/7c93a297-2693-4184-bd0a-c53091807ecc" />
+
+
 ---
 
 ## 4) Running the project:
