@@ -9,7 +9,8 @@
 - SQLTools VSCode extension (by Matheus Teixeira) for making light changes  
 - React Native Tools VSCode extension  
 - ES7 React/Redux/GraphQL/React-Native snippets VSCode extension  
-- Python Environments VSCode extension  
+- Python Environments VSCode extension
+- PowerShell (by Microsoft) VSCode extension
 
 ---
 
