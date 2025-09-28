@@ -9,8 +9,8 @@
   font-weight: 400;
 
   color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  color: rgba(0, 0, 0, 0.87);
+  background-color: #14082e;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -52,7 +52,8 @@ button {
   font-size: 1em;
   font-weight: 500;
   font-family: inherit;
-  background-color: #1a1a1a;
+  background-color: #b4f01b;
+  border-color: rgb(0, 0, 0);
   cursor: pointer;
   transition: border-color 0.25s;
 }
@@ -66,8 +67,14 @@ button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
 
-input,
-textarea,
+input, textarea {
+  font: inherit;
+  min-height: 30px;
+  padding: 10px 10px;
+  border-radius: 8px;
+  width: 90%;
+  background-color: rgb(238, 238, 238);
+}
 select {
   font: inherit;
   font-size: 100%;
@@ -76,6 +83,7 @@ select {
   padding: 10px 10px;
   border-radius: 8px;
   width: 90%;
+  background-color: rgb(238, 238, 238);
 }
 
 .app-container {
