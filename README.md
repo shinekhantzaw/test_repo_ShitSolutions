@@ -45,7 +45,11 @@ Follow the images bellow:
 ---
 
 ## 4) Running the project:
-**Windows**
+**Windows (VSCode terminal)**
+
+All setups commands are included in shell script, no additonal step needed.
+
+Run:
 ```PowerShell
 .\run.ps1
 ```
