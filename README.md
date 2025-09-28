@@ -47,13 +47,13 @@ Follow the images bellow:
 ## 4) Running the project:
 **Windows (VSCode terminal)**
 
-All setups commands are included in the shell script, no additonal step needed.
+All setups commands are included in the shell script; no additonal step needed.
 
 Run:
 ```PowerShell
 .\run.ps1
 ```
-Or you can run the app with play button if you installed PowerShell (by Microsoft) VSCode extention
+Or you can run the app with play button if you installed PowerShell (by Microsoft) VSCode extenion
 
 ## Access the project:
 - Backend (API) → http://127.0.0.1:8000  
