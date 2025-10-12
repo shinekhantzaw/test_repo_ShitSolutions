@@ -1,5 +1,17 @@
 # Onboarding
 
+
+## Collaboration Guidelines
+
+- Each collaborator must work on **their own branch**.  
+- Commit and push changes, then **create a Pull Request (PR)** for review.  
+- Add **all teammates and the project advisor** as reviewers.  
+- A PR will only be merged into `main` after **everyone approves** it.  
+- **Document your code clearly** for team understanding.  
+- Follow a **modular and component-based structure** for better organization.  
+- Use `.gitignore` to avoid pushing unnecessary files to the repository.
+
+---
 ## 1) Make sure you have these installed:
 - **Python 3.10+**  
 - **Node.js** and **npm**  
@@ -82,14 +94,3 @@ run_DB.ps1          # Manage database (create/drop/seed)
 net stop postgresql-x64-18
 ```
 
----
-
-## **7) Collaboration Guidelines**
-
-- Each collaborator must work on **their own branch**.  
-- Commit and push changes, then **create a Pull Request (PR)** for review.  
-- Add **all teammates and the project advisor** as reviewers.  
-- A PR will only be merged into `main` after **everyone approves** it.  
-- **Document your code clearly** for team understanding.  
-- Follow a **modular and component-based structure** for better organization.  
-- Use `.gitignore` to avoid pushing unnecessary files to the repository.
