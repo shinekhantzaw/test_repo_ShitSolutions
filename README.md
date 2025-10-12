@@ -11,7 +11,6 @@
 🧩 Follow a **modular and component-based structure** for better organization.  
 🚫 Use `.gitignore` to avoid pushing unnecessary files to the repository.
 
----
 ## 1) Make sure you have these installed:
 - **Python 3.10+**  
 - **Node.js** and **npm**  
@@ -24,9 +23,6 @@
   - Python Environments
   - PowerShell (by Microsoft)
 
----
-
-
 ## 2) Clone the project
 
 Clone the repository to your local machine:
@@ -34,7 +30,6 @@ Clone the repository to your local machine:
 ```PowerShell
 git clone https://github.com/AdjudicatorMe/Senior-Capstone-Project.git
 ```
----
 
 ## 3) Database setup:
 Follow the images below to install **PostgreSQL:**
@@ -50,7 +45,6 @@ Follow the images below to install **PostgreSQL:**
 Create a `.env` file inside the **backend** folder to set up your database URL.  
 Refer to `.env_example` for guidance.
 
----
 
 ## 4) Running the project
 
@@ -76,13 +70,11 @@ run_DB.ps1          # Manage database (create/drop/seed)
 > 💡 **Tip:**  
 > If you have the **PowerShell (by Microsoft)** extension installed in VS Code, you’ll see a ▶️ play button above each script for easy execution.
 
----
 
 ## Access the project:
 - Backend (API)             →           http://127.0.0.1:8000  
 - Frontend (React app)      →           http://localhost:5173  
 
----
 
 ## **6) Stopping the Program**
 
